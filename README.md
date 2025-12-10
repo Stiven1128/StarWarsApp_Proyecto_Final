@@ -109,7 +109,7 @@ La aplicación sigue el patrón **MVVM (Model-View-ViewModel)** con arquitectura
 1. **Clonar el repositorio**
 ```bash
 git clone https://github.com/Stiven1128/StarWarsApp_Proyecto_Final.git
-cd starwars-universe-explorer
+cd StarWarsApp_Proyecto_Final
 ```
 
 2. **Abrir en Android Studio**
