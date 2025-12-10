@@ -108,7 +108,7 @@ La aplicación sigue el patrón **MVVM (Model-View-ViewModel)** con arquitectura
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/starwars-universe-explorer.git
+git clone https://github.com/Stiven1128/StarWarsApp_Proyecto_Final.git
 cd starwars-universe-explorer
 ```
 
@@ -437,25 +437,14 @@ try {
 - [ ] Compartir información en redes sociales
 - [ ] Widget de pantalla de inicio
 
-## 🤝 Contribuciones
 
-Las contribuciones son bienvenidas. Por favor:
 
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la [MIT License](LICENSE).
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
+**[José Stiven Rodas Beltrán]**
+- GitHub: [Stiven1128](https://github.com/Stiven1128)
+- Email: jose.rodas34265@ucaldas.edu.co
 
 ## 🙏 Agradecimientos
 
@@ -470,11 +459,6 @@ Este proyecto es de código abierto y está disponible bajo la [MIT License](LIC
 
 ---
 
-## 📞 Soporte
-
-Si encuentras algún problema o tienes preguntas, por favor:
-1. Revisa los [Issues existentes](https://github.com/tu-usuario/starwars-universe-explorer/issues)
-2. Crea un [Nuevo Issue](https://github.com/tu-usuario/starwars-universe-explorer/issues/new)
 
 ## 📚 Recursos Adicionales
 
